@@ -8,7 +8,7 @@ headers={
 }
 
 params={
-    'name':'Clementine Bauch',
+    'name':'Clementine Bauch'
 }
 
 response=requests.get(url,headers=headers,params=params)
