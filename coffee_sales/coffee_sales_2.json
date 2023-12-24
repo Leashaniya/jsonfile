@@ -1,0 +1,13 @@
+[  
+    {    
+        "id": 7,    
+        "date": "2021-03-03",    
+        "location": "London",    
+        "sales": 312  
+    },  
+    {   "id": 10,    
+        "date": "2021-03-04",    
+        "location": "London",    
+        "sales": 289  
+    }
+]

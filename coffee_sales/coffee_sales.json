@@ -1,0 +1,54 @@
+{
+    "locations": [
+      {
+        "id": 1,
+        "name": "New York"
+      },
+      {
+        "id": 2,
+        "name": "London"
+      },
+      {
+        "id": 3,
+        "name": "Tokyo"
+      }
+    ],
+    "sales": [
+      {
+        "id": 1,
+        "location_id": 1,
+        "date": "2021-01-01",
+        "sales": 100
+      },
+      {
+        "id": 2,
+        "location_id": 1,
+        "date": "2021-01-02",
+        "sales": 200
+      },
+      {
+        "id": 3,
+        "location_id": 2,
+        "date": "2021-01-01",
+        "sales": 150
+      },
+      {
+        "id": 4,
+        "location_id": 2,
+        "date": "2021-01-02",
+        "sales": 250
+      },
+      {
+        "id": 5,
+        "location_id": 3,
+        "date": "2021-01-01",
+        "sales": 120
+      },
+      {
+        "id": 6,
+        "location_id": 3,
+        "date": "2021-01-02",
+        "sales": 180
+      }
+    ]
+  }

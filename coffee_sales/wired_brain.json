@@ -1,0 +1,27 @@
+[  
+    {   "id": 1,    
+        "date": "2021-03-01",
+        "location": "London",
+        "sales": 327  
+    },  
+    {   "id": 4,
+        "date": "2021-03-02",
+        "location": "London",
+        "sales": 275  
+    },  
+    {   "id": 7,
+        "date": "2021-03-03",
+        "location": "London",
+        "sales": 312  
+    },  
+    {   "id": 10,
+        "date": "2021-03-04",    
+        "location": "London",    
+        "sales": 289  
+    },  
+    {   "id": 13,    
+        "date": "2021-03-05",    
+        "location": "London",    
+        "sales": 337  
+    }
+]
