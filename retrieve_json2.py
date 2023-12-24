@@ -4,7 +4,7 @@ import json
 url='https://jsonplaceholder.typicode.com/todos'
 
 headers={
-    'content-type':'application/json'
+    'Content-Type':'application/json'
 }
 
 params={

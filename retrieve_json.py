@@ -4,7 +4,7 @@ import json
 url='https://edfreitas.me/test/wired_brain.json'
 
 headers={
-    'content-type':'application/json'
+    'Content-Type':'application/json'
 }
 
 params={

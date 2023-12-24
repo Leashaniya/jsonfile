@@ -4,7 +4,7 @@ import json
 url='https://jsonplaceholder.typicode.com/users'
 
 headers={
-    'content-type':'application/json'
+    'Content-Type':'application/json'
 }
 
 params={
