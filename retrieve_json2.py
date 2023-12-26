@@ -13,7 +13,8 @@ params={
 
 response=requests.get(url,headers=headers,params=params)
 if response.status_code==200:
-    data= json.loads(response.text)
+    # data= json.loads(response.text)
+    data=response.json()
     for item in data:
         print(item)
 else:
