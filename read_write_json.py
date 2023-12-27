@@ -16,7 +16,7 @@ for file in os.listdir(dir):
 for item in cdata:
     print(item)
 
-outfile='output.json'
+outfile='outputs.json'
 
 with open(outfile,'w') as f:
     json.dump(cdata,f)
