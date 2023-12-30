@@ -1,3 +1,5 @@
+#you gonna run the program through the terminal
+#Command-line arguments are parameters or values provided to a program or script when it is executed from the command line or terminal. 
 import json
 import requests
 import os
